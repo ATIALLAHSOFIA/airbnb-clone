@@ -3,11 +3,7 @@
 
 
 
-  <h3 align="center">Roam | AI-Powered Airbnb Clone</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/watch?v=XUkNR-JfHwo" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  <h3 align="center">Roam |  Airbnb Clone</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -120,7 +116,7 @@ Replace the placeholder values with your real credentials. You can get these by 
 **Running the Project**
 
 ```bash
-npx expo start
+npm start
 ```
 
 Scan the QR code with the Expo Go app on your phone, or press `i` for the iOS Simulator or `a` for the Android emulator.

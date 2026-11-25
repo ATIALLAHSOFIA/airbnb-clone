@@ -1,20 +1,7 @@
 <div align="center">
-  <br />
-    <a href="https://youtu.be/GXbZc1sHEJY" target="_blank">
-      <img src="assets/readme/readme-hero.webp" alt="Project Banner">
-    </a>
-  <br />
 
-  <div>
-<img src="https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<br />
-<img src="https://img.shields.io/badge/-Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-<img src="https://img.shields.io/badge/-Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=white" />
-  </div>
+
+
 
   <h3 align="center">Roam | AI-Powered Airbnb Clone</h3>
 
